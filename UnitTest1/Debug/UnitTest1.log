@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+D:\4 сем аистд\lab1_aistd\lab1_aistd\Queue.h(79): warning C4715: queue<int,char>::peek: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\4 сем аистд\lab1_aistd\Debug\UnitTest1.lib и объект D:\4 сем аистд\lab1_aistd\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\4 сем аистд\lab1_aistd\Debug\UnitTest1.dll

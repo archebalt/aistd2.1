@@ -1,0 +1,5 @@
+﻿  RBtree.cpp
+  Source.cpp
+  Создание кода...
+D:\4 сем аистд\lab1_aistd\lab1_aistd\Queue.h(79): warning C4715: queue<int,char>::peek: значение возвращается не при всех путях выполнения
+  lab1_aistd.vcxproj -> D:\4 сем аистд\lab1_aistd\Debug\lab1_aistd.exe
